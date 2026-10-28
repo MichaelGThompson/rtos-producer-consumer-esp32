@@ -1,0 +1,7 @@
+{
+  "platformio-ide.autoOpenPlatformIOIniFile": false,
+  "platformio-ide.intelliSenseEngine": "cpptools",
+  "files.associations": {
+    "*.h": "c"
+  }
+}
